@@ -1,0 +1,31 @@
+body
+{
+	margin:0px 0px 0px 0px;
+	padding: 0;
+}
+.header
+{
+	height:;
+	width: 100%;
+	float: left; 
+}
+.slider
+{
+	width:86.58%;
+	float: left;
+	margin-left: 90px;
+	margin-top:-1.4%;
+}
+.con
+{
+	width: 88%;
+	float: left;
+	margin-left: 80px;
+	background-color: white;
+}
+.footer
+{
+	width: 87%;
+	height: 20px;
+	margin-left: 86px;
+}
